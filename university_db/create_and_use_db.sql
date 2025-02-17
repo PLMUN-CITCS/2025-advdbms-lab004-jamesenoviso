@@ -2,7 +2,7 @@
 CREATE DATABASE `UniversityDB`;
 
 -- Step 2: Use the newly created database
-USE `UniversityDB`;
+
 
 -- Verification (Optional): 
 -- You can add a simple query to verify the database is selected.
